@@ -3,9 +3,8 @@
 * By: Nicholas Macedo
 */
 
-require_once(header.php);
+require_once("header.php");
 echo "<p>CONTENT</p>";
-require_once(footer.php);
-
+require_once("footer.php");
 
  ?>
