@@ -9,7 +9,7 @@ $url = substr($url, 1); //remove / from end
 $urlMap = [
 '' => 'index.html',
 'about' => 'about.html',
-'job-desc' => 'job-description.html',
+'job-description' => 'job-description.html',
 'goals' => 'goals.html',
 'conclusion' => 'conclusion.html'
 ];
